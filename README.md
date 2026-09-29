@@ -27,3 +27,4 @@ This repository is used for GitHub collaboration practice.
 - Commit
 - Branch
 - Pull Request
+- Pull Request
