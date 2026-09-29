@@ -46,3 +46,11 @@ This section was created in the branch_pr branch.
 - Role: Collaborator
 
 I modified this README through a collaborator branch.
+
+## Fork Practice
+
+- Contributor: B정의현
+- Student ID: B2021732025
+- Method: Fork & Pull Request
+
+This contribution was created from a forked repository.
