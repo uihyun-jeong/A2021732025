@@ -5,7 +5,7 @@
 ## Student Information
 
 - Name:
-- Student ID: 2021732025
+- Student ID: A2021732025
 - Partner: B2021732025
 - Course: 인공지능응용
 
